@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é @Sergiorssantana(Yoda_Code) gosto das linguagem que estão abaixo.
+- 👋 Olá, meu nome é @Sergiorssantana(Yoda_Code) gosto das linguagens que estão abaixo.
 - Forte a abraço! Que a força estejam com vocês.
 
 <div align="left">
