@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sergiorssantana
+- 👋 Olá, meu nome é @Sergiorssantana
 
 <div align="left">
   <a href="https://github.com/Sergiorssantana">
